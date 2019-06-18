@@ -19,4 +19,4 @@ der_pdf is available under the MIT license.
 
 ### Support or Contact
 
-having trouble with pages? check out our [documentation]() and we'll help you sort it out.
+having trouble with pages? check out our [documentation](https://leotads.github.io/der_pdf/) and we'll help you sort it out.

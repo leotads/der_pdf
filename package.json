@@ -21,9 +21,11 @@
   ],
   "author": "Leonardo Freitas",
   "license": "MIT",
-  "preferGlobal": "true",
   "bugs": {
     "url": "https://github.com/leotads/der_pdf/issues"
   },
-  "homepage": "https://github.com/leotads/der_pdf#readme"
+  "homepage": "https://github.com/leotads/der_pdf#readme",
+  "dependencies": {
+    "pdfkit": "^0.10.0"
+  }
 }

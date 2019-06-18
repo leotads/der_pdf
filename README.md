@@ -16,3 +16,7 @@ in the terminal use
 ## License
 
 der_pdf is available under the MIT license.
+
+### Support or Contact
+
+having trouble with pages? check out our [documentation]() and we'll help you sort it out.
